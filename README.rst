@@ -2,16 +2,16 @@
 DIALS Dependencies
 ==================
 
-.. image:: https://img.shields.io/pypi/v/dials_dependencies.svg
-        :target: https://pypi.python.org/pypi/dials_dependencies
+.. image:: https://img.shields.io/pypi/v/dials-dependencies.svg
+        :target: https://pypi.python.org/pypi/dials-dependencies
         :alt: PyPI release
 
-.. image:: https://img.shields.io/pypi/l/dials_dependencies.svg
-        :target: https://pypi.python.org/pypi/dials_dependencies
+.. image:: https://img.shields.io/pypi/l/dials-dependencies.svg
+        :target: https://pypi.python.org/pypi/dials-dependencies
         :alt: BSD license
 
-.. image:: https://img.shields.io/pypi/pyversions/dials_dependencies.svg
-        :target: https://pypi.org/project/dials_dependencies
+.. image:: https://img.shields.io/pypi/pyversions/dials-dependencies.svg
+        :target: https://pypi.org/project/dials-dependencies
         :alt: Supported Python versions
 
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
