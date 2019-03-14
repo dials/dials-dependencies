@@ -42,5 +42,5 @@ setup(
     packages=find_packages(),
     setup_requires=setup_requirements,
     url="https://github.com/dials/dials-dependencies",
-    version="0.1.1",
+    version="0.1.2",
 )
