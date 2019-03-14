@@ -44,8 +44,8 @@ setup(
     long_description=readme,
     long_description_content_type="text/x-rst",
     name="dials-dependencies",
-    packages=find_packages(include=["dials_dependencies.py"]),
+    packages=find_packages(),
     setup_requires=setup_requirements,
     url="https://github.com/dials/dials-dependencies",
-    version="0.3.0",
+    version="0.4.0",
 )
