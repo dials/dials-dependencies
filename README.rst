@@ -18,6 +18,12 @@ DIALS Dependencies
         :target: https://github.com/ambv/black
         :alt: Code style: black
 
-A meta-package describing DIALS_ dependencies
+A meta-package describing DIALS_ dependencies.
+
+To make a release run::
+
+     libtbx.bumpversion minor
+
+     python setup.py sdist bdist_wheel upload
 
 .. _DIALS: https://dials.github.io
