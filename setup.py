@@ -26,7 +26,7 @@ setup(
     author="DIALS",
     author_email="dials-support@lists.sourceforge.net",
     classifiers=[
-        "Development Status :: 1 - Planning",
+        "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
         "License :: OSI Approved :: BSD License",
         "Natural Language :: English",
