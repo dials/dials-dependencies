@@ -9,5 +9,5 @@ from __future__ import absolute_import, division, print_function
 
 __all__ = ["version", "version_tuple"]
 
-version = "0.5.1"
+version = "0.6.0"
 version_tuple = tuple(int(x) for x in version.split("."))
