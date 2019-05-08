@@ -13,7 +13,7 @@ requirements = [
     "msgpack",
     "networkx",
     "orderedset",
-    "procrunner>=0.6",
+    "procrunner>=1.0",
     "pytest>=3.6,<5.0",
     "scikit_learn[alldeps]<0.21",
     "scipy",
