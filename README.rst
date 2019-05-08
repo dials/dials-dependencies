@@ -6,6 +6,10 @@ DIALS Dependencies
         :target: https://pypi.python.org/pypi/dials-dependencies
         :alt: PyPI release
 
+.. image:: https://img.shields.io/conda/vn/conda-forge/dials-dependencies.svg
+        :target: https://anaconda.org/conda-forge/dials-dependencies
+        :alt: Conda release
+
 .. image:: https://img.shields.io/pypi/l/dials-dependencies.svg
         :target: https://pypi.python.org/pypi/dials-dependencies
         :alt: BSD license
