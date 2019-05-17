@@ -33,6 +33,10 @@ def test_pytest():
     import pytest
 
 
+def test_pytest_xdist():
+    import xdist
+
+
 def test_scikit_learn():
     import sklearn
 
