@@ -1,10 +1,6 @@
 from __future__ import absolute_import, division, print_function
 
 
-def test_blosc():
-    import blosc
-
-
 def test_jinja2():
     import jinja2
 
@@ -17,10 +13,6 @@ def test_msgpack():
     import msgpack
 
 
-def test_networkx():
-    import networkx
-
-
 def test_orderedset():
     import orderedset
 
@@ -31,6 +23,10 @@ def test_procrunner():
 
 def test_pytest():
     import pytest
+
+
+def test_pytest_mock():
+    import pytest_mock
 
 
 def test_pytest_xdist():

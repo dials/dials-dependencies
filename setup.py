@@ -7,14 +7,13 @@ with open("README.rst") as readme_file:
     readme = readme_file.read()
 
 requirements = [
-    "blosc>=1.8",
     "Jinja2",
     "mock>=3.0.5",
     "msgpack",
-    "networkx",
     "orderedset",
-    "procrunner>=1.0.1",
+    "procrunner>=1.0.2",
     "pytest>=4.5,<5.0",
+    "pytest-mock",
     "pytest-xdist>=1.28.0",
     "scikit_learn[alldeps]<0.21",
     "scipy",
